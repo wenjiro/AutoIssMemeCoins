@@ -34,3 +34,6 @@ If you want to give MemeCoins to your viewers for channel points, but you can't 
     - System.IndentifyModel.Services.dll
 9. Compile
 10. **You Great!**
+
+
+Мемкоины за баллы канала Twtch, MemeCons for Twitch Rewards
